@@ -1,4 +1,4 @@
-# Spring Boot and Camel using ConfigMaps and Secrets 
+# Spring Boot and Camel using ConfigMaps and Secrets in Openshift 
 
 This quickstart demonstrates how to configure a Spring-Boot application using Kubernetes ConfigMaps and Secrets.
 
